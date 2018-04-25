@@ -25,7 +25,7 @@ Click to find visual insights by exploring interactive plots
 
 ### Data Sources:
 
-The data we have is taken from the Global Terrorism Dataset and can be requested for here : [Dataset Link](http://start.umd.edu/gtd/contact/) It ranges from 1970 - 2016 are comprises over 100 features such as target, type of attack, terrorist organisation, location, outcomes, etc of about 170,000 terror attacks over the world.**
+The data we have is taken from the Global Terrorism Dataset and can be requested for here : [Dataset Link](http://start.umd.edu/gtd/contact/) It ranges from 1970 - 2016 are comprises over 100 features such as target, type of attack, terrorist organisation, location, outcomes, etc of about 170,000 terror attacks over the world.
 
 ---
 
