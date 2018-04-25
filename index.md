@@ -1,7 +1,6 @@
 ---
 layout: page
 title: A Brief Summary of Terror Around the World (1970-2016)
-tagline: Data Visualization done on Global Terrorism Data
 ---
 
 **status: Beta Release**
