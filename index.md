@@ -18,12 +18,10 @@ A user would learn about the trend in terrorist activities around the world and 
 
 Click to find visual insights by exploring interactive plots 
 
-- [Which cities in world are most affected by terrorist from 1970 to 2016 ?](pages/where.html) 
-- How this is related with events in the area and actions of the countries of interest.
-- Who is affected the most from this crisis, which demographics ?
-- What is the pattern of refugees, which paths do they follow ?
-- How other countries react to this issue and what kind of actions do they take towards it ?
-
+- [Which cities in world are most affected by terrorist from 1970 to 2016 ?](pages/overview.html) 
+- Question 2 write and link ?
+- Question 3 write and link ?
+- Question 4 write and link ?
 
 ### Data Sources:
 
