@@ -18,7 +18,7 @@ A user would learn about the trend in terrorist activities around the world and 
 
 Click to find visual insights by exploring interactive plots 
 
-- [Which cities in world are most affected by terrorist from 1970 to 2016 ?](pages/overview.html) 
+- [Which cities in world are most affected by terrorist from 1970 to 2016 ?](pages/global.html) 
 - Question 2 write and link ?
 - Question 3 write and link ?
 - Question 4 write and link ?
