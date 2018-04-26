@@ -14,14 +14,14 @@ We wished to use this project as an opportunity to shed light on some serious is
 A user would learn about the trend in terrorist activities around the world and how the terrorist activities have impacted different countries/cities in world in last 40 years. Through our visualisation, we are trying to answer questions like which countries are the most disturbed due to terrorism, the terror outfits that are most active/disruptive and how they have evolved over the years. The objective is to educate users about where and when terrorist activities have impacted most and is it increasing or decreasing over time.
 
 
-### Questions Yet to be Answered:
+### Aspects Yet to be Explored:
 
 Click to find visual insights by exploring interactive plots 
 
 - [Which cities in world are most affected by terrorist from 1970 to 2016?](pages/global.html) 
 - [Activities of Terrorist Groups over the years](pages/terrorist_groups.html)
-- [Overview](pages/tableau.html)
-- Question 4 write and link ?
+- [An overview of how terrorism is spread across countries](https://public.tableau.com/views/OverviewofTerrorismaroundtheWorld/Dashboard1?:embed=y&:display_count=yes&publish=yes)
+
 
 ### Data Sources:
 
@@ -29,4 +29,4 @@ The data we have is taken from the Global Terrorism Dataset and can be requested
 
 ---
 
-The source for this website is [on github](https://github.com/neerjad/global-terrorism-analysis).
+The source for this website is [on github](https://neerjad.github.io/global-terrorism-analysis/).
