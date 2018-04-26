@@ -29,4 +29,4 @@ The data we have is taken from the Global Terrorism Dataset and can be requested
 
 ---
 
-The source for this website is [on github](https://neerjad.github.io/global-terrorism-analysis/).
+The source for this website is [on github](https://github.com/neerjad/global-terrorism-analysis).
