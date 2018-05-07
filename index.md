@@ -33,7 +33,7 @@ A user would learn about the trend in terrorist activities around the world and 
 <h3 style="text-align:center;">
 <iframe align="middle" width="900" height="500" frameborder="0" scrolling="no" src="//plot.ly/~groverpr/2.embed"></iframe>
 </h3>
-</html>
+
 
 
 <style>
@@ -44,6 +44,7 @@ A user would learn about the trend in terrorist activities around the world and 
     width: 50%;
 }
 </style>
+</html>
 
 
 #### Activities of Terrorist Groups over the years 
