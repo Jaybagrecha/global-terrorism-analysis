@@ -18,7 +18,51 @@ A user would learn about the trend in terrorist activities around the world and 
 
 Click to find visual insights by exploring interactive plots 
 
-- [Which cities in world are most affected by terrorist from 1970 to 2016?](pages/global.html) 
+- [Which cities in world are most affected by terrorist from 1970 to 2016?](pages/global.html)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Where ?</title>
+</head>
+<body>
+
+
+<h2 align="center"> Overall trend of terrorist activities around the world from 1970 to 2016 </h2>
+
+<h3 style="text-align:center;">
+<iframe align="middle" width="900" height="500" frameborder="0" scrolling="no" src="//plot.ly/~groverpr/14.embed"></iframe>
+</h3>
+
+<h2 align="center"> Total number of attacks from 1970 to 2016 </h2>
+
+<h3 style="text-align:center;">
+<iframe align="middle" width="900" height="500" frameborder="0" scrolling="no" src="//plot.ly/~groverpr/2.embed"></iframe>
+</h3>
+
+<body>
+      <footer>
+        <p><small>
+  <!-- start of Karl's footer; modify this part -->
+          <a href="https://neerjad.github.io/global-terrorism-analysis/"> Return to Main Page</a>
+  <!-- end of Karl's footer; modify this part -->
+        </small></p>
+      </footer>
+  </body>
+</html>
+
+
+<style>
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+</style>
+
+
+
 - [Activities of Terrorist Groups over the years](pages/terrorist_groups.html)
 - [An overview of how terrorism is spread across countries](https://public.tableau.com/views/OverviewofTerrorismaroundtheWorld/Dashboard1?:embed=y&:display_count=yes&publish=yes)
 
