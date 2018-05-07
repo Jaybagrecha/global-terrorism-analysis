@@ -36,16 +36,6 @@ A user would learn about the trend in terrorist activities around the world and 
 <h3 style="text-align:center;">
 <iframe align="middle" width="900" height="500" frameborder="0" scrolling="no" src="//plot.ly/~groverpr/2.embed"></iframe>
 </h3>
-
-<body>
-      <footer>
-        <p><small>
-  <!-- start of Karl's footer; modify this part -->
-          <a href="https://neerjad.github.io/global-terrorism-analysis/"> Return to Main Page</a>
-  <!-- end of Karl's footer; modify this part -->
-        </small></p>
-      </footer>
-  </body>
 </html>
 
 
@@ -85,8 +75,6 @@ A user would learn about the trend in terrorist activities around the world and 
 <body>
 
 
-<h2 align="center"> Activities of Terror Groups over the years ? </h2>
-
 <h3 style="text-align:center;" >
 <iframe width="900" height="400" frameborder="0" scrolling="yes" src="//plot.ly/~groverpr/15.embed"></iframe>
 
@@ -100,32 +88,7 @@ A user would learn about the trend in terrorist activities around the world and 
  <iframe width="600" height="500" frameborder="0" scrolling="yes" src="//plot.ly/~groverpr/19.embed"></iframe> 
  </div>
 </div>
-
-
-
-<body>
-      <footer>
-        <p><small>
-  <!-- start of Karl's footer; modify this part -->
-          <a href="https://neerjad.github.io/global-terrorism-analysis/"> Return to Main Page</a>
-  <!-- end of Karl's footer; modify this part -->
-        </small></p>
-      </footer>
-  </body>
 </html>
-
-
-<style>
-.center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-}
-</style>
-
-
-
 
 ## An overview of how terrorism is spread across countries]
 https://public.tableau.com/views/OverviewofTerrorismaroundtheWorld/Dashboard1?:embed=y&:display_count=yes&publish=yes
