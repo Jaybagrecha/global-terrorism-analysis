@@ -16,10 +16,7 @@ A user would learn about the trend in terrorist activities around the world and 
 
 ### Aspects Yet to be Explored:
 
-Click to find visual insights by exploring interactive plots 
-
-- [Which cities in world are most affected by terrorist from 1970 to 2016?](pages/global.html)
-<!DOCTYPE html>
+## Which cities in world are most affected by terrorist from 1970 to 2016?
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -62,9 +59,76 @@ Click to find visual insights by exploring interactive plots
 </style>
 
 
+## Activities of Terrorist Groups over the years 
 
-- [Activities of Terrorist Groups over the years](pages/terrorist_groups.html)
-- [An overview of how terrorism is spread across countries](https://public.tableau.com/views/OverviewofTerrorismaroundtheWorld/Dashboard1?:embed=y&:display_count=yes&publish=yes)
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Where ?</title>
+<head>
+<style>
+
+.column {
+    float: left;
+    width: 50%;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+</style>
+</head>
+<body>
+
+
+<h2 align="center"> Activities of Terror Groups over the years ? </h2>
+
+<h3 style="text-align:center;" >
+<iframe width="900" height="400" frameborder="0" scrolling="yes" src="//plot.ly/~groverpr/15.embed"></iframe>
+
+</h3>
+
+<div class="row">
+  <div class="column">
+  <iframe width="600" height="500" frameborder="0" scrolling="yes" src="//plot.ly/~groverpr/17.embed"></iframe>
+  </div>
+  <div class="column">
+ <iframe width="600" height="500" frameborder="0" scrolling="yes" src="//plot.ly/~groverpr/19.embed"></iframe> 
+ </div>
+</div>
+
+
+
+<body>
+      <footer>
+        <p><small>
+  <!-- start of Karl's footer; modify this part -->
+          <a href="https://neerjad.github.io/global-terrorism-analysis/"> Return to Main Page</a>
+  <!-- end of Karl's footer; modify this part -->
+        </small></p>
+      </footer>
+  </body>
+</html>
+
+
+<style>
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+</style>
+
+
+
+
+## An overview of how terrorism is spread across countries]
+https://public.tableau.com/views/OverviewofTerrorismaroundtheWorld/Dashboard1?:embed=y&:display_count=yes&publish=yes
 
 
 ### Data Sources:
