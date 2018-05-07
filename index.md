@@ -14,9 +14,6 @@ We wished to use this project as an opportunity to shed light on some serious is
 A user would learn about the trend in terrorist activities around the world and how the terrorist activities have impacted different countries/cities in world in last 40 years. Through our visualisation, we are trying to answer questions like which countries are the most disturbed due to terrorism, the terror outfits that are most active/disruptive and how they have evolved over the years. The objective is to educate users about where and when terrorist activities have impacted most and is it increasing or decreasing over time.
 
 
-### Aspects Yet to be Explored:
-
-## Which cities in world are most affected by terrorist from 1970 to 2016?
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -49,9 +46,8 @@ A user would learn about the trend in terrorist activities around the world and 
 </style>
 
 
-## Activities of Terrorist Groups over the years 
+#### Activities of Terrorist Groups over the years 
 
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -90,7 +86,7 @@ A user would learn about the trend in terrorist activities around the world and 
 </div>
 </html>
 
-## An overview of how terrorism is spread across countries]
+#### An overview of how terrorism is spread across countries
 https://public.tableau.com/views/OverviewofTerrorismaroundtheWorld/Dashboard1?:embed=y&:display_count=yes&publish=yes
 
 
