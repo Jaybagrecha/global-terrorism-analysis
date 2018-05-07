@@ -87,12 +87,11 @@ A user would learn about the trend in terrorist activities around the world and 
 
 
 <h3> An overview of how terrorism is spread across countries </h3>
-https://public.tableau.com/views/OverviewofTerrorismaroundtheWorld/Dashboard1?:embed=y&:display_count=yes&publish=yes
-
+<iframe width="600" height="500" frameborder="0" scrolling="yes" src="https://public.tableau.com/views/OverviewofTerrorismaroundtheWorld/Dashboard1?:embed=y&:display_count=yes&publish=yes"></iframe>
 
 <h3> Data Sources: </h3>
 
-The data we have is taken from the Global Terrorism Dataset and can be requested for here : [Dataset Link](http://start.umd.edu/gtd/contact/) It ranges from 1970 - 2016 are comprises over 100 features such as target, type of attack, terrorist organisation, location, outcomes, etc of about 170,000 terror attacks over the world.
+The data we have is taken from the Global Terrorism Dataset and can be requested for <a href ="http://start.umd.edu/gtd/contact/">here</a>. It ranges from 1970 - 2016 are comprises over 100 features such as target, type of attack, terrorist organisation, location, outcomes, etc of about 170,000 terror attacks over the world.
 
 ---
 
