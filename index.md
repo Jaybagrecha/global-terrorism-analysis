@@ -87,7 +87,7 @@ A user would learn about the trend in terrorist activities around the world and 
 
 
 <h3> An overview of how terrorism is spread across countries </h3>
-<iframe width="600" height="500" frameborder="0" scrolling="yes" src="https://public.tableau.com/views/OverviewofTerrorismaroundtheWorld/Dashboard1?:embed=y&:display_count=yes&publish=yes"></iframe>
+<iframe width="600" height="500" frameborder="0" scrolling="yes" src="https://public.tableau.com/views/OverviewofTerrorismaroundtheWorld/Dashboard1?:embed=true&showVizHome=no&:display_count=yes&publish=yes"></iframe>
 
 <h3> Data Sources: </h3>
 
