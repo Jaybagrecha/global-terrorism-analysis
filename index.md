@@ -72,15 +72,20 @@ A user would learn about the trend in terrorist activities around the world and 
 <h3 style="text-align:center;" >
 <iframe width="900" height="400" frameborder="0" scrolling="yes" src="//plot.ly/~groverpr/15.embed"></iframe>
 
-</h3>
+<h3 style="text-align:center;" >
+<iframe width="900" height="400" frameborder="0" scrolling="yes" src="//plot.ly/~groverpr/17.embed"></iframe>
+
+<h3 style="text-align:center;" >
+<iframe width="900" height="400" frameborder="0" scrolling="yes" src="//plot.ly/~groverpr/19.embed"></iframe>
+<!--</h3>
 <div class="row">
   <div class="column">
   <iframe width="600" height="500" frameborder="0" scrolling="yes" src="//plot.ly/~groverpr/17.embed"></iframe>
   </div>
-  <div class="column">
+<div class="column">
  <iframe width="600" height="500" frameborder="0" scrolling="yes" src="//plot.ly/~groverpr/19.embed"></iframe> 
  </div>
-</div> 
+</div> -->
 
 
 <h3> A look at how terrorism is spread across countries </h3>
