@@ -2,6 +2,7 @@
 layout: page
 title: A Brief Summary of Terror Around the World (1970-2016)
 ---
+**developed by: Neerja Doshi and Prince Grover**
 
 ### Motivation:
 
