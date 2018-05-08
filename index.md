@@ -19,8 +19,7 @@ A user would learn about the trend in terrorist activities around the world and 
 body, html{
   margin:0;
   padding:0;
-}
-</style>
+}</style>
     <meta charset="UTF-8">
     <title>Where ?</title>
 </head>
