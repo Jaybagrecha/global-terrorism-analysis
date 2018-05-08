@@ -70,13 +70,13 @@ A user would learn about the trend in terrorist activities around the world and 
 
 
 <h3 style="text-align:center;" >
-<iframe width="900" height="400" frameborder="0" scrolling="yes" src="//plot.ly/~groverpr/15.embed"></iframe>
+<iframe width="1000" height="400" frameborder="0" scrolling="no" src="//plot.ly/~groverpr/15.embed"></iframe>
 
 <h3 style="text-align:center;" >
-<iframe width="900" height="400" frameborder="0" scrolling="yes" src="//plot.ly/~groverpr/17.embed"></iframe>
+<iframe width="1000" height="600" frameborder="0" scrolling="no" src="//plot.ly/~groverpr/17.embed"></iframe>
 
 <h3 style="text-align:center;" >
-<iframe width="900" height="400" frameborder="0" scrolling="yes" src="//plot.ly/~groverpr/19.embed"></iframe>
+<iframe width="1000" height="600" frameborder="0" scrolling="no" src="//plot.ly/~groverpr/19.embed"></iframe>
 <!--</h3>
 <div class="row">
   <div class="column">
@@ -99,4 +99,4 @@ The data we have is taken from the Global Terrorism Dataset and can be requested
 
 ---
 
-The source for this website is [on github](https://neerjad.github.io/global-terrorism-analysis/).
+The source for this website is on github at <a href = "https://neerjad.github.io/global-terrorism-analysis/">https://neerjad.github.io/global-terrorism-analysis/</a>.
