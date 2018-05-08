@@ -1,9 +1,6 @@
 ---
-layout: page
 title: A Brief Summary of Terror Around the World (1970-2016)
 ---
-
-**status: Beta Release**
 
 ### Motivation:
 
