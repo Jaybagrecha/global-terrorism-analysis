@@ -11,6 +11,12 @@ We wished to use this project as an opportunity to shed light on some serious is
 
 A user would learn about the trend in terrorist activities around the world and how the terrorist activities have impacted different countries/cities in world in last 40 years. Through our visualisation, we are trying to answer questions like which countries are the most disturbed due to terrorism, the terror outfits that are most active/disruptive and how they have evolved over the years. The objective is to educate users about where and when terrorist activities have impacted most and is it increasing or decreasing over time.
 
+<style>
+body, html{
+  margin:0;
+  padding:0;
+}
+</style>
 
 <html lang="en">
 <head>
@@ -40,8 +46,8 @@ A user would learn about the trend in terrorist activities around the world and 
     margin-left: auto;
     margin-right: auto;
     width: 50%;
-}
-</style>-->
+}</style>-->
+
 
 
 <h3> Activities of Terrorist Groups over the years </h3>
@@ -97,6 +103,6 @@ A user would learn about the trend in terrorist activities around the world and 
 
 The data we have is taken from the Global Terrorism Dataset and can be requested for <a href ="http://start.umd.edu/gtd/contact/">here</a>. It ranges from 1970 - 2016 are comprises over 100 features such as target, type of attack, terrorist organisation, location, outcomes, etc of about 170,000 terror attacks over the world.
 
----
+<br>
 
 The source for this website is on github at <a href = "https://neerjad.github.io/global-terrorism-analysis/">https://neerjad.github.io/global-terrorism-analysis/</a>.
