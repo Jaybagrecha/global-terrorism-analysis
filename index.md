@@ -26,15 +26,15 @@ body, html{
 <body>
 
 
-<h3 align="center"> Overall trend of terrorist activities around the world from 1970 to 2016 </h3>
+<h3 align="left"> Overall trend of terrorist activities around the world from 1970 to 2016 </h3>
 
-<h3 style="text-align:center;">
+<h3 style="text-align:left;">
 <iframe align="middle" width="900" height="500" frameborder="0" scrolling="no" src="//plot.ly/~groverpr/14.embed"></iframe>
 </h3>
 
-<h3 align="center"> Total number of attacks from 1970 to 2016 </h3>
+<h3 align="left"> Total number of attacks from 1970 to 2016 </h3>
 
-<h3 style="text-align:center;">
+<h3 style="text-align:left;">
 <iframe align="middle" width="900" height="500" frameborder="0" scrolling="no" src="//plot.ly/~groverpr/2.embed"></iframe>
 </h3>
 
@@ -70,13 +70,13 @@ body, html{
 <body>
 
 
-<h3 style="text-align:center;" >
+<h3 style="text-align:left;" >
 <iframe width="1000" height="400" frameborder="0" scrolling="no" src="//plot.ly/~groverpr/15.embed"></iframe>
 
-<h3 style="text-align:center;" >
+<h3 style="text-align:left;" >
 <iframe width="1000" height="600" frameborder="0" scrolling="no" src="//plot.ly/~groverpr/17.embed"></iframe>
 
-<h3 style="text-align:center;" >
+<h3 style="text-align:left;" >
 <iframe width="1000" height="600" frameborder="0" scrolling="no" src="//plot.ly/~groverpr/19.embed"></iframe>
 <!--</h3>
 <div class="row">
