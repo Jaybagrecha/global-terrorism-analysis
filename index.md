@@ -30,7 +30,7 @@ body, html{
 <h3 align="left"> Overall trend of terrorist activities around the world from 1970 to 2016 </h3>
 
 <h3 style="text-align:left;">
-<iframe align="middle" width="900" height="500" frameborder="0" scrolling="no" src="//plot.ly/~groverpr/14.embed"></iframe>
+<iframe align="middle" width="900" height="500" frameborder="0" scrolling="no" src="//plot.ly/~groverpr/30.embed"></iframe>
 </h3>
 
 <h3 align="left"> Total number of attacks from 1970 to 2016 </h3>
