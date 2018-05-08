@@ -36,14 +36,14 @@ A user would learn about the trend in terrorist activities around the world and 
 
 
 
-<style>
+<!--<style>
 .center {
     display: block;
     margin-left: auto;
     margin-right: auto;
     width: 50%;
 }
-</style>
+</style>-->
 
 
 <h3> Activities of Terrorist Groups over the years </h3>
@@ -75,15 +75,14 @@ A user would learn about the trend in terrorist activities around the world and 
 <iframe width="900" height="400" frameborder="0" scrolling="yes" src="//plot.ly/~groverpr/15.embed"></iframe>
 
 </h3>
-
-<!--<div class="row">
+<div class="row">
   <div class="column">
   <iframe width="600" height="500" frameborder="0" scrolling="yes" src="//plot.ly/~groverpr/17.embed"></iframe>
   </div>
   <div class="column">
  <iframe width="600" height="500" frameborder="0" scrolling="yes" src="//plot.ly/~groverpr/19.embed"></iframe> 
  </div>
-</div> -->
+</div> 
 
 
 <h3> A look at how terrorism is spread across countries </h3>
