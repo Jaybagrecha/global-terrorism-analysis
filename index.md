@@ -12,11 +12,10 @@ We wished to use this project as an opportunity to shed light on some serious is
 A user would learn about the trend in terrorist activities around the world and how the terrorist activities have impacted different countries/cities in world in last 40 years. Through our visualisation, we are trying to answer questions like which countries are the most disturbed due to terrorism, the terror outfits that are most active/disruptive and how they have evolved over the years. The objective is to educate users about where and when terrorist activities have impacted most and is it increasing or decreasing over time.
 
 
-</style>
 
 <html lang="en">
 <head>
-    <style>
+<style>
 body, html{
   margin:0;
   padding:0;
